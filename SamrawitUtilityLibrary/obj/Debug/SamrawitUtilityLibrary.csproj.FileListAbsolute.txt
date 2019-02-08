@@ -1,0 +1,6 @@
+C:\repos\SamrawitUtilityLibrarySolution\SamrawitUtilityLibrary\bin\Debug\SamrawitUtilityLibrary.dll
+C:\repos\SamrawitUtilityLibrarySolution\SamrawitUtilityLibrary\bin\Debug\SamrawitUtilityLibrary.pdb
+C:\repos\SamrawitUtilityLibrarySolution\SamrawitUtilityLibrary\obj\Debug\SamrawitUtilityLibrary.csprojAssemblyReference.cache
+C:\repos\SamrawitUtilityLibrarySolution\SamrawitUtilityLibrary\obj\Debug\SamrawitUtilityLibrary.csproj.CoreCompileInputs.cache
+C:\repos\SamrawitUtilityLibrarySolution\SamrawitUtilityLibrary\obj\Debug\SamrawitUtilityLibrary.dll
+C:\repos\SamrawitUtilityLibrarySolution\SamrawitUtilityLibrary\obj\Debug\SamrawitUtilityLibrary.pdb
