@@ -11,7 +11,7 @@ namespace SamrawitUtilityLibrary
     public class Strings { 
 
 
-        public static bool ValidUSZipCode(string ValidUSZipCode)
+        public static bool ValidUSZipCode(string ValidUSZipCode) 
     {
         Regex regex = new Regex(@"^\d{ 5 }(-?\d{ 4})?");
         var match = regex.IsMatch(ValidUSZipCode);
